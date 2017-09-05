@@ -1,0 +1,11 @@
+.customers-list, .cards-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 30%;
+  min-width: 300px;
+  background-color: #e5e5e5 !important;
+}
